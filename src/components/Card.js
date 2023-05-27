@@ -14,4 +14,4 @@ export default function Card({img, children, additionalClass}) {
 Card.propTypes = {
     img: PropTypes.string,
     additionalClass: PropTypes.string
-}
+} 
